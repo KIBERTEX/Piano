@@ -76,5 +76,9 @@ body {
   left: 865px;
 }
 
+.key.active {
+  background-color: #ffd9e6;
+}
+
 
 
